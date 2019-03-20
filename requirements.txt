@@ -1,0 +1,8 @@
+Requirements:
+1. Python 2. This version can be found at https://www.python.org/downloads; to install, click Download Python 2.7.13 and follow the instructions.
+2. Numpy. To install on Linux, enter sudo apt-get install python-numpy at the command line (Ubuntu) or find the package for the appropriate distribution. To install on Mac or Windows (or Linux) download Anaconda or another distribution for Python 2.7 (links are at https://scipy.org/install.html).
+3. Scikit Learn. This can be installed using pip by entering pip install scikit-learn, or on Linux by entering sudo apt-get install python-scikit-learn.
+4. NLTK. To install the NLTK library (minimally Python 2.7, 3.4, or 3.5 is required), go to http://www.nltk.org/install.html and follow the instructions for Mac and Unix or for Windows.
+5. Scipy. Use either pip install scipy or sudo apt-get install python-scipy.
+
+To run: python2 final.py
